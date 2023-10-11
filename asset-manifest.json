@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gaby-salajan.github.io/static/css/main.ca57846c.css",
+    "main.js": "/gaby-salajan.github.io/static/js/main.f7def906.js",
+    "static/js/787.e9147d90.chunk.js": "/gaby-salajan.github.io/static/js/787.e9147d90.chunk.js",
+    "index.html": "/gaby-salajan.github.io/index.html",
+    "main.ca57846c.css.map": "/gaby-salajan.github.io/static/css/main.ca57846c.css.map",
+    "main.f7def906.js.map": "/gaby-salajan.github.io/static/js/main.f7def906.js.map",
+    "787.e9147d90.chunk.js.map": "/gaby-salajan.github.io/static/js/787.e9147d90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.f7def906.js"
+  ]
+}
